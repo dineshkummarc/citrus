@@ -1,0 +1,30 @@
+body {
+  padding-top: 56px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+}
+
+.comment-wrapper .panel-body {
+  max-height:650px;
+  overflow:auto;
+}
+
+.comment-wrapper {
+  padding-inline-start: 0%;
+  border-bottom:1px dashed #efefef;
+  margin-bottom:25px;
+}
+
+#comment-list {
+  margin-bottom: 100px;
+}
+
+.comment { 
+  list-style-type: none;
+}
