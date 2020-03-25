@@ -12,6 +12,7 @@ class Comment
     public $comment;
     public $createdAt;
     public $isApproved;
+    public $email;
 
     public function __construct($db) {
         $this->conn = $db;
