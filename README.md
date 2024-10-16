@@ -1,5 +1,4 @@
 # citrus
-
 ## About
 A minor fruit catalog + comment project demonstrating PHP + MySQL + AJAX using jQuery stack.
 ## Setup
